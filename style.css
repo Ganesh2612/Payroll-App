@@ -1,0 +1,10 @@
+body {
+  background-color: #f8f9fa;
+}
+
+textarea {
+  resize: none;
+}
+.all:hover{
+    border:2px solid green;
+}

@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Manasha",
+      "email": "Man@gmail.com",
+      "salary": "343455",
+      "department": "acc",
+      "gender": "Female",
+      "address": "perungaluthur",
+      "id": "ca48"
+    },
+    {
+      "id": "04a5",
+      "name": "Kala",
+      "email": "Kala@gmail.com",
+      "salary": "70000",
+      "department": "Cooking",
+      "gender": "Female",
+      "address": "2nd street,\nEguvarpalayam,\nTamil Nadu"
+    },
+    {
+      "id": "58fd",
+      "name": "Gopi",
+      "email": "gopi@gmail.com",
+      "salary": "200000",
+      "department": "Driver",
+      "gender": "Male",
+      "address": "S.R.Kandigai,\nGummidipoondi 601201,\nTamil Nadu."
+    },
+    {
+      "id": "17d3",
+      "name": "Ganesh P",
+      "email": "ganeshgopi2612@gmail.com",
+      "salary": "1000000",
+      "department": "Angular",
+      "gender": "Male",
+      "address": "Varkala,\nKerala"
+    }
+  ]
+}
